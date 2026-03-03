@@ -26,4 +26,8 @@ The resulting map provides a visual overview before further image filtering or a
 !pip install rioxarray
 ```
 
-And refer this readme Documentation: [README.pdf](https://github.com/sarathsaixxx/AI-for-Smart-Cities/blob/main/readme_documentation.pdf.pdf)
+And refer this readme Documentation:  [README.pdf](https://github.com/sarathsaixxx/AI-for-Smart-Cities/blob/main/readme_documentation.pdf.pdf)
+
+### OR
+
+Refer to this drive link (if the above link crashes):  [README.pdf](https://drive.google.com/file/d/1OfBO1ERXs-fNfbAqFkUEK0qB-ZcoA-hI/view?usp=sharing)

@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E81TFsdBh_hlXzM3eZcxNqAwZT5JKqld?usp=sharing)
 # Delhi-NCR Land Cover Pipeline
 *By D. Sarath Sai*
 

@@ -24,3 +24,6 @@ The resulting map provides a visual overview before further image filtering or a
 > To install `rioxarray` in Colab:
 ```bash
 !pip install rioxarray
+```
+
+And refer this readme Documentation: [README.pdf](https://github.com/sarathsaixxx/AI-for-Smart-Cities/blob/main/readme_documentation.pdf.pdf)

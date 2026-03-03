@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E81TFsdBh_hlXzM3eZcxNqAwZT5JKqld?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E81TFsdBh_hlXzM3eZcxNqAwZT5JKqld?usp=sharing) [README.pdf](https://drive.google.com/file/d/1OfBO1ERXs-fNfbAqFkUEK0qB-ZcoA-hI/view?usp=sharing)
 # Delhi-NCR Land Cover Pipeline
 *By D. Sarath Sai*
 
@@ -128,8 +128,6 @@ with zipfile.ZipFile("earth-observation-delhi-airshed.zip", 'r') as zip_ref:
 ## 5. Open the Notebook
 
 Open the `.ipynb` file in VS Code (or Jupyter Notebook) and run all cells.
-
----
 
 The dataset will download automatically, and the models (TinyCNN and ResNet18) will train and evaluate.
 

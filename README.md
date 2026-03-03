@@ -1,4 +1,7 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E81TFsdBh_hlXzM3eZcxNqAwZT5JKqld?usp=sharing) [README.pdf](https://drive.google.com/file/d/1OfBO1ERXs-fNfbAqFkUEK0qB-ZcoA-hI/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E81TFsdBh_hlXzM3eZcxNqAwZT5JKqld?usp=sharing) &nbsp;&nbsp;&nbsp;
+[![Open in Drive](https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png)](https://drive.google.com/drive/folders/YOUR_FOLDER_LINK)
+&nbsp;&nbsp;&nbsp;
+[README.pdf](https://drive.google.com/file/d/1OfBO1ERXs-fNfbAqFkUEK0qB-ZcoA-hI/view?usp=sharing)
 # Delhi-NCR Land Cover Pipeline
 *By D. Sarath Sai*
 
